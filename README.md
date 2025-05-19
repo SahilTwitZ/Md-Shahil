@@ -116,5 +116,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for full 
 
 * [ResNet50](https://keras.io/api/applications/resnet/) – Used for image feature extraction.
 * [Streamlit](https://streamlit.io/) – Enables the web-based user interface.
-
-```
